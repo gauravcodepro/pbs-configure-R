@@ -1,3 +1,8 @@
+#Gaurav Sablok 
+#Senior Postdoctoral Fellow Faculty of Natural and Agricultural Sciences 
+#Room 7-35, Agricultural Sciences Building 
+#University of Pretoria, Private Bag X20 Hatfield 0028, 
+#South Africa 
 pbsCHCPC <- function(job, log, mail, host, queue, workdir, nodes, cpus, command, module){
     print(paste0(PBS_JOBNAME = "job"))
     print(paste0(PBS_O_LOGNAME = "job")
