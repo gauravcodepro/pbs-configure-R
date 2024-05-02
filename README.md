@@ -9,9 +9,9 @@ PBS_O_WORKDIR = \
 PBS_NODES = \
 PBS_NCPUS = \
 PBS_COMMAND = \
-PBS_MODULE = \
+PBS_MODULE = 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
