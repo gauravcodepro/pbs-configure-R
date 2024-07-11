@@ -1,6 +1,5 @@
-#! usr/bin/env python3
+#! usr/bin/env R
 # Author Gaurav 
-# Universitat Potsdam
 # Date 2024-6-20
 
 pbs <- function(job, log, mail, host, queue, workdir, nodes, cpus, command, module){
